@@ -1,0 +1,9 @@
+<package project="Mer:Trunk:Base" name="mingetty">
+  <title>A compact getty program for virtual consoles only</title>
+  <description>The mingetty program is a lightweight, minimalist getty program for
+use only on virtual consoles.  Mingetty is not suitable for serial
+lines (you should use the mgetty program in that case).
+
+</description>
+  <url>http://sourceforge.net/projects/mingetty/</url>
+</package>
