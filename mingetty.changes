@@ -1,3 +1,6 @@
+* Thu Apr 23 2026 Matti Viljanen <matti.viljanen@jolla.com> - 1.08-3
+- Fix compile with newer rpm. JB#62519
+
 * Wed Jul 23 2008 Martin Xu <martin.xu@intel.com>
 - add %doc to man file
 
